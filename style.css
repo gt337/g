@@ -1,5 +1,5 @@
 html {
-    background-image: url('img.jpg?v=2');
+    background-image: ('img.jpg?v=2');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
